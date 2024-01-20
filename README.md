@@ -1,6 +1,7 @@
 # iOS 16 Compatible Semi-Jailbreak Tweaks
 
 ## Repositories
+- [A-lenglengyu](https://lenglengyu.com)
 - [Akusio repo](https://akusio.github.io)
 - [alias20](https://alias20.gitlab.io/apt/)
 - [AnthoPak's Repo](https://repo.anthopak.dev/)
@@ -23,6 +24,7 @@
 - [Merona Repo](https://repo.co.kr)
 - [MiRO's Repo](https://miro92.com/repo/)
 - [MTAC's Repo](https://mtac.app/repo/)
+- [Paisseon's Repo](https://paisseon.github.io)
 - [PoomSmart's Repo](https://poomsmart.github.io/repo/)
 - [RootHide's Repo](https://roothide.github.io)
 - [SparkDev](https://sparkdev.me)
@@ -32,11 +34,12 @@
 | --- | --- |
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
+| Adjust Dynamic Dynamic Island Position on Notched Devices | [laileld](https://laileld.github.io/repo/) |
 | Akara | [Chariz](https://repo.chariz.com/) |
 | Alpine | [Havoc](https://havoc.app) |
 | Alpine | [Havoc](https://havoc.app) |
 | Always120 | [Havoc](https://havoc.app) |
-| Ambre | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
+| Amber | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | App Hider | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | App Library Disabler | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | AppColorClose | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -108,6 +111,7 @@
 | ReachPlayer | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | RecordPause | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Rune | [Havoc](https://havoc.app) |
+| Satella | [Paisseon's Repo](https://paisseon.github.io) |
 | Senri | [Chariz](https://repo.chariz.com/) |
 | ShowTouch | [RootHide's Repo](https://roothide.github.io) |
 | Shuffle | [CreatureCoding](https://creaturecoding.com/repo/) |
@@ -122,9 +126,13 @@
 | Trim (saw for rootless) | [iGerman](https://repo.igerman.cc) |
 | TweakSettings | [CreatureCoding](https://creaturecoding.com/repo/) |
 | Uptime | [RootHide's Repo](https://roothide.github.io) |
+| VideoAdsSpeed | [A-lenglengyu](https://lenglengyu.com) |
 | Velvet 2 | [Chariz](https://repo.chariz.com/) |
 | WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
+
+## How to adjust Dynamic Island Position on Notched Devices:
+https://github.com/pisknk/Adjust-Dynamic-Island
 
 ## Themes
 | Name | Repository |
